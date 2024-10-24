@@ -47,7 +47,7 @@ Installation of this project is pretty easy. Please do follow the following step
 
 ### Step-5: Run the application:
 ```bash
-    python run clientApp.py
+    python clientApp.py
 ```
 
 ### Step-6: Prediction application:
